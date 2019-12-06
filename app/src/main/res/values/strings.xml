@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color Quiz</string>
+    <string name="color">color</string>
+    <string name="score_label">Score: </string>
+    <string name="score_value">0</string>
+    <string name="select_the_right_color">Select the right color!</string>
+</resources>
